@@ -1,0 +1,10 @@
+Check Whether a Number is POSITIVE OR NEGATIVE Enter the Number:
+15
+
+The Given Number 15 is Positive
+
+Check Whether a Number is POSITIVE OR NEGATIVE Enter the Number:
+-700
+
+The Given Number -700 is Negative
+
